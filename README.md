@@ -1,11 +1,11 @@
 # Описание приложения
-### Для развертывания приложения использованые следующие открытые images:
-### - функционал frontend + backend
+### Для развертывания приложения использованые следующие открытые ресурсы:
+### - функционал frontend + backend, images:
  - nginx
  - allansimon/php7-fpm-postgresql
 ### - готовая реализация репликации postgres primary-replica (helm chart)
 - registry.developers.crunchydata.com/crunchydata/crunchy-postgres/ubi8-14.4-0  
-### - выполнение миграции (создание таблицы blacklisted)
+### - выполнение миграции (создание таблицы blacklisted), image:
 - jbergknoff/postgresql-client
 
 
